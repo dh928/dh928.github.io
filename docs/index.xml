@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danyu Hu</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Danyu Hu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>I am a Master of Engineering student at Cornell University. My interests lies deeply in the fields of Information/Control Theory, Machine Learning, and Finance Risk Assessment.
+My hometown is Shenyang, China. I lived in Fukuoka, Japan for almost 2 year when I was young. My family moved to Connecticut for a few years, and now I live in Ithaca, NY. I love meeting people from different cultural and geographic backgrounds. I am looking forward to more adventures in the future!</description>
+    </item>
+    
+    <item>
+      <title>Facts</title>
+      <link>http://www.example.com/facts/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/facts/</guid>
+      <description> I ran 2 half-marathhons!  I recently started rock climbing!  I am a part-time food blogger  My favorite book of 2021:   </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.example.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/</guid>
+      <description>Current Project:
+  MEng. Project: Federated Learning with Statistically Heterogenous Users
+ Faculty Advisor: Qing Zhao PhD Advisor: Sudeep Salgia Project Goal: Investigate the optimak Federated Learning communication policy to save cost and maintain high performance. Project Status: ongoing, no website yet     Light Following Robot:
+ https://pages.github.coecis.cornell.edu/dh573/ECE3400-Danyu/ Project Status: complete     LED Display and Memory Game
+ https://pages.github.coecis.cornell.edu/ece3140-sp2021/dh573-mce54/ Project Status: complete     </description>
+    </item>
+    
+  </channel>
+</rss>
